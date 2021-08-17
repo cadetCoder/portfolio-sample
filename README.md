@@ -7,6 +7,7 @@
   <br>
 </h2>
 
+
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -106,7 +107,7 @@ Once your server has started, go to this url `http://localhost:8080/` and you wi
 
 ### Step 1 - STRUCTURE
 
-Go to `/src/template.html` and fill your information, they are 5 sections:
+Go to `/src/index.html` and fill your information, they are 5 sections:
 
 ### Hero Section
 
